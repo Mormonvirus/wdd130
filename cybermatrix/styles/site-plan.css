@@ -80,6 +80,10 @@ p {
   width: 25%;
   height: 3em;
 }
+img {
+    width: 700px;
+    padding: 5px;
+}
 
 .primary {
   background-color: var(--primary-color);
