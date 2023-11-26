@@ -157,6 +157,26 @@ nav a:hover{
    width: 80px;
    padding-top: 10px;
 }
+.active {
+    background-color: #FFFFFF;
+    color: #5643B5;
+}
+.camp-home{
+    display: block;
+    text-align: center;
+}
+.camp-home h1 {
+    font-size: 25px;
+}
+.camp-home img {
+    width: 95%;
+    height: 900px;
+}
+.camp-home h1, .camp-home img, .camp-home p {
+    padding: 20px;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+
 main section {
     text-align: center;
 }
