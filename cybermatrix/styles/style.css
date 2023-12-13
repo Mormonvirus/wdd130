@@ -89,8 +89,7 @@ h1, h2, h3 {
 .card2 {
     grid-column: 2/3;
 }
-
-section{
+div.card1, div.card2{
     padding: 10px;
 }
 
@@ -99,7 +98,7 @@ section{
     text-align: center;
 }
 
-section img, .photo_card img{
+div.card1 img, div.card2 img, .photo_card img{
     width: 100%;
     height: 100%;
 }
